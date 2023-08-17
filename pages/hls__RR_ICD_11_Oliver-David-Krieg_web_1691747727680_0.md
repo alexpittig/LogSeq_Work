@@ -11,3 +11,8 @@ file-path:: ../assets/RR_ICD_11_Oliver-David-Krieg_web_1691747727680_0.pdf
   hl-page:: 33
   hl-color:: yellow
   id:: 64dbad7e-b958-4d86-a8db-c92c515a31ab
+- a higher degree of functional integration, material performance, and morphological complexity than what could be achieved with hierarchical and standardized building systems in traditional design and delivery processes
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 64de130c-e15c-479e-8b1d-0667599c4fc7
