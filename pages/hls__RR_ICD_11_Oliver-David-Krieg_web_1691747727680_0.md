@@ -16,3 +16,18 @@ file-path:: ../assets/RR_ICD_11_Oliver-David-Krieg_web_1691747727680_0.pdf
   hl-page:: 41
   hl-color:: yellow
   id:: 64de130c-e15c-479e-8b1d-0667599c4fc7
+- more performative and functionally gradated building systems that exhibit a higher level of geometric complexity and differentiation; 
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 64de1496-92e5-46e5-bdcc-33c4f77e214d
+- building systems with their manufacturing process, and the impact both have on each other
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 64de14a6-a108-42a7-b25a-cdf4f36b7ffa
+- using industrial robots and other numerically controlled manufacturing equipment
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 64de14bd-2ce2-4bfa-a9d6-e2ef12bcce7d
