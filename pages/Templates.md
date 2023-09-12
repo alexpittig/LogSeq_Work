@@ -2,14 +2,15 @@
 background-color:: green
 template:: [[read]]
 template-including-parent:: true
-type:: [[]]
-published-year:: [[]] 
-date-read:: [[]]
-link:: [[]]
-read-status:: [[I read it]]
-major-themes::
-minor-themes::
-
+	- type:: [[]]
+	  read-status:: [[I read it]]
+	  title:: 
+	  authors:: [[]]
+	  published-year:: [[]] 
+	  date-read:: [[]]
+	  link:: [[]]
+	  major-themes::
+	  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
@@ -19,11 +20,13 @@ minor-themes::
   background-color:: green
   template:: [[to read]]
   template-including-parent:: true
-	- title:: [[]]
-	  type:: [[]]
+	- type:: [[]]
+	  read-status:: [[I should read it]]
+	  title:: [[]]
+	  authors:: [[]]
 	  published-year:: [[]] 
 	  link:: [[]]
-	  read-status:: [[I should read it]]
+	  
 	  major-themes::
 -
 - ### Meetings
