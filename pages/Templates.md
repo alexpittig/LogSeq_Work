@@ -38,4 +38,5 @@ minor-themes::
 - ### Daily Notes
   template:: [[daily notes]]
   template-including-parent:: true
-	- time-in::
+  
+  ### To
