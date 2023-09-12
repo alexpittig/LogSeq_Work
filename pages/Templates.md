@@ -36,7 +36,17 @@ minor-themes::
 	- #### Content:
 -
 - ### Daily Notes
-  template:: [[daily notes]]
+- template:: [[daily notes]] 
   template-including-parent:: true
-  
-  ### To
+	- time-in::
+-
+- ### To Do List
+  template:: [[to-do-list]]
+  template-including-parent:: true
+	- TODO
+	- TODO
+	- TODO
+	- TODO
+	- TODO
+	-
+-
