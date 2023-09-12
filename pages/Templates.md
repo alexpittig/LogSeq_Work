@@ -1,13 +1,15 @@
 ### Read
 background-color:: green
-title:: [[]]
+template:: [[read]]
+template-including-parent:: false
 type:: [[]]
 published-year:: [[]] 
 date-read:: [[]]
 link:: [[]]
-read-status:: [[read]]
+read-status:: [[I read it]]
 major-themes::
 minor-themes::
+
 	- #### Content:
 	-
 	- #### Image:
@@ -15,16 +17,20 @@ minor-themes::
 -
 - ### To Read
   background-color:: green
-  title:: [[]]
-  type:: [[]]
-  published-year:: [[]] 
-  link:: [[]]
-  read-status:: [[not read]]
-  major-themes::
+  template:: [[to read]]
+  template-including-parent:: false
+	- title:: [[]]
+	  type:: [[]]
+	  published-year:: [[]] 
+	  link:: [[]]
+	  read-status:: [[I should read it]]
+	  major-themes::
 -
-- ### Conversations
-  with-who:: [[]]
-  date:: [[]]
-  major-themes::
-  minor-themes::
+- ### Meetings
+  template:: [[meetings]]
+  template-including-parent:: false
+	- with-who:: [[]]
+	  date:: [[]]
+	  major-themes::
+	  minor-themes::
 	- #### Content:
