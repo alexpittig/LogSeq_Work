@@ -34,3 +34,8 @@ minor-themes::
 	  major-themes::
 	  minor-themes::
 	- #### Content:
+-
+- ### Daily Notes
+  template:: [[daily notes]]
+  template-including-parent:: false
+	-
