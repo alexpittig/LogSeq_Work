@@ -1,7 +1,7 @@
 ### Read
 background-color:: green
 template:: [[read]]
-template-including-parent:: false
+template-including-parent:: true
 type:: [[]]
 published-year:: [[]] 
 date-read:: [[]]
@@ -18,7 +18,7 @@ minor-themes::
 - ### To Read
   background-color:: green
   template:: [[to read]]
-  template-including-parent:: false
+  template-including-parent:: true
 	- title:: [[]]
 	  type:: [[]]
 	  published-year:: [[]] 
@@ -28,7 +28,7 @@ minor-themes::
 -
 - ### Meetings
   template:: [[meetings]]
-  template-including-parent:: false
+  template-including-parent:: true
 	- with-who:: [[]]
 	  date:: [[]]
 	  major-themes::
@@ -37,5 +37,5 @@ minor-themes::
 -
 - ### Daily Notes
   template:: [[daily notes]]
-  template-including-parent:: false
-	-
+  template-including-parent:: true
+	- time-in::
