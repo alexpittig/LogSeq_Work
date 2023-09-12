@@ -1,16 +1,13 @@
-- Read
-  background-color:: green
-  template:: Read
-  template-including-parent:: false
-	- title:: 
-	  published-year:: 
-	  date-read::
-	  link::
-	  major-theme::
-	  minor-theme::
-		-
-		-
-		-
-		- content::
-			-
-		- [PASTE IMAGE HERE]{:height 300, :width 400}
+### Read
+background-color:: green
+title:: [[]]
+type:: [[]]
+published-year:: [[]] 
+date-read:: [[]]
+link:: [[]]
+major-themes::
+minor-themes::
+	- Content:
+	  
+	  Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
