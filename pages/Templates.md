@@ -1,13 +1,8 @@
-- Papers
+- Read
   background-color:: green
-  template:: Papers
+  template:: Read
   template-including-parent:: false
-	- #### TODO Read Status📖
-	  title:: 
-	  year:: 
-	  authors:: 
-	  type:: [[Papers]]
-	  link::
+	- Details::
 	  :LOGBOOK:
 	  CLOCK: [2023-06-29 Thu 14:53:19]--[2023-06-29 Thu 14:53:56] =>  00:00:37
 	  CLOCK: [2023-06-29 Thu 14:53:57]--[2023-06-29 Thu 14:54:01] =>  00:00:04
@@ -22,12 +17,18 @@
 	  CLOCK: [2023-06-29 Thu 14:55:00]--[2023-06-29 Thu 14:55:01] =>  00:00:01
 	  CLOCK: [2023-06-29 Thu 14:55:01]
 	  :END:
+	  title:: 
+	  year:: 
+	  authors:: 
+	  type:: [[Papers]]
+	  link::
+		-
 		- content::
 			-
 		- [PASTE IMAGE HERE]{:height 300, :width 400}
-- Want to Read
+- Must Read
   background-color:: green
-  template:: Want to Read Papers
+  template:: Must Read
   template-including-parent:: false
 	- #### Want to Read Paper 💡
 	  title:: 
