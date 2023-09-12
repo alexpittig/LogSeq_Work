@@ -3,7 +3,7 @@ background-color:: green
 template:: [[read]]
 template-including-parent:: true
 	- type:: [[]]
-	  read-status:: [[I read it]]
+	  read-status:: [[read]]
 	  title:: 
 	  authors:: [[]]
 	  published-year:: [[]] 
@@ -21,7 +21,7 @@ template-including-parent:: true
   template:: [[to read]]
   template-including-parent:: true
 	- type:: [[]]
-	  read-status:: [[I should read it]]
+	  read-status:: [[to-read]] 
 	  title:: [[]]
 	  authors:: [[]]
 	  published-year:: [[]] 
