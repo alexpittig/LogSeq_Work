@@ -5,7 +5,7 @@ template-including-parent:: true
 	- type:: [[book]]
 	  read-status:: [[read]]
 	  title:: 
-	  authors::
+	  authors:: [[]]
 	  published-year:: [[]] 
 	  date-read:: [[]]
 	  file-path:: 
@@ -24,7 +24,7 @@ template-including-parent:: true
 	- type:: [[article]]
 	  read-status:: [[read]]
 	  title:: 
-	  authors::
+	  authors:: [[]]
 	  published-year:: [[]] 
 	  date-read:: [[]]
 	  file-path::
@@ -43,7 +43,7 @@ template-including-parent:: true
 	- type:: [[website]]
 	  read-status:: [[read]]
 	  title:: 
-	  authors::
+	  authors:: [[]]
 	  published-year:: [[]] 
 	  date-read:: [[]]
 	  downloads-file-path::
@@ -62,10 +62,28 @@ template-including-parent:: true
 	- type:: [[podcast]]
 	  read-status:: [[read]]
 	  title:: 
-	  authors::
-	  published-year:: [[]] 
+	  creators:: [[]]
+	  released-year:: [[]] 
 	  date-read:: [[]]
 	  file-path::
+	  additional-links::
+	  major-themes::
+	  minor-themes::
+	- #### Content:
+	-
+	- #### Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
+-
+- ### Read
+  background-color:: green
+  template:: [[source - interview]]
+  template-including-parent:: true
+	- type:: [[interview]]
+	  read-status:: [[read]]
+	  title:: 
+	  interviewee:: [[]]
+	  date-interviewed:: [[]]
+	  audio-recording::
 	  additional-links::
 	  major-themes::
 	  minor-themes::
