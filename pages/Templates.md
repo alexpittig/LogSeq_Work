@@ -1,12 +1,11 @@
-### Input Title
+### Book Title
 background-color:: green
 template:: [[source - book]]
 template-including-parent:: true
+authors:: [[]]
 type:: [[book]]
 read-status:: [[read]]
-authors:: [[]]
 published:: [[]] 
-date:: [[]]
 file-path:: 
 additional-links::
 major-themes::
@@ -16,77 +15,69 @@ minor-themes::
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Read
+- ### Article Title
   background-color:: green
   template:: [[source - article]]
   template-including-parent:: true
-	- type:: [[article]]
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path::
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+  authors:: [[]]
+  type:: [[article]]
+  read-status:: [[read]]
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Read
+- ### Website Title
   background-color:: green
   template:: [[source - website]]
   template-including-parent:: true
-	- type:: [[website]]
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path::
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+  authors:: [[]]
+  type:: [[website]]
+  read-status:: [[read]]
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Read
+- ### Podcast Title
   background-color:: green
   template:: [[source - podcast]]
   template-including-parent:: true
-	- type:: [[podcast]]
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path::
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+  authors:: [[]]
+  type:: [[podcast]]
+  read-status:: [[read]]
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Read
+- ### Interview Title
   background-color:: green
   template:: [[source - interview]]
   template-including-parent:: true
-	- type:: [[interview]]
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path:: 
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+  authors:: [[]]
+  type:: [[interview]]
+  read-status:: [[read]]
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
