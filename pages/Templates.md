@@ -1,8 +1,8 @@
 ### Read
 background-color:: green
-template:: [[read]]
+template:: [[source - book]]
 template-including-parent:: true
-	- type:: [[]]
+	- type:: [[book]]
 	  read-status:: [[read]]
 	  title:: 
 	  authors:: [[]]
