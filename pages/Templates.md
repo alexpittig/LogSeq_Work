@@ -1,4 +1,4 @@
-### Read
+### Input Title
 background-color:: green
 template:: [[source - book]]
 template-including-parent:: true
