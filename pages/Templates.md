@@ -6,7 +6,7 @@ authors:: [[]]
 type:: [[book]]
 read-status:: [[read]]
 published:: [[]] 
-file-path:: 
+link::  
 additional-links::
 major-themes::
 minor-themes::
@@ -23,7 +23,7 @@ minor-themes::
   type:: [[article]]
   read-status:: [[read]]
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
   minor-themes::
@@ -40,7 +40,7 @@ minor-themes::
   type:: [[website]]
   read-status:: [[read]]
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
   minor-themes::
@@ -57,7 +57,7 @@ minor-themes::
   type:: [[podcast]]
   read-status:: [[read]]
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
   minor-themes::
@@ -74,7 +74,7 @@ minor-themes::
   type:: [[interview]]
   read-status:: [[read]]
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
   minor-themes::
@@ -91,7 +91,7 @@ minor-themes::
   type:: [[film]]
   read-status:: [[read]]
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
   minor-themes::
@@ -107,7 +107,7 @@ minor-themes::
   authors:: [[]]
   read-status:: [[to-read]] 
   published:: [[]] 
-  file-path:: 
+  link::  
   additional-links::
   major-themes::
 	- #### Content:
@@ -116,7 +116,7 @@ minor-themes::
   template:: [[meetings]]
   template-including-parent:: true
   with-who:: [[]]
-  links::
+  link::  
   major-themes::
   minor-themes::
 	- #### Content:
