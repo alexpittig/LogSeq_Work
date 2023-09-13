@@ -83,20 +83,18 @@ minor-themes::
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Read
+- ### Film Title
   background-color:: green
   template:: [[source - film]]
   template-including-parent:: true
-	- type:: [[film]] 
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path::
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+  authors:: [[]]
+  type:: [[film]]
+  read-status:: [[read]]
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 	-
 	- #### Image:
