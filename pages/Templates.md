@@ -5,10 +5,68 @@ template-including-parent:: true
 	- type:: [[book]]
 	  read-status:: [[read]]
 	  title:: 
-	  authors:: [[]]
+	  authors::
 	  published-year:: [[]] 
 	  date-read:: [[]]
-	  link:: [[]]
+	  file-path:: 
+	  additional-links::
+	  major-themes::
+	  minor-themes::
+	- #### Content:
+	-
+	- #### Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
+-
+- ### Read
+  background-color:: green
+  template:: [[source - article]]
+  template-including-parent:: true
+	- type:: [[article]]
+	  read-status:: [[read]]
+	  title:: 
+	  authors::
+	  published-year:: [[]] 
+	  date-read:: [[]]
+	  file-path::
+	  additional-links::
+	  major-themes::
+	  minor-themes::
+	- #### Content:
+	-
+	- #### Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
+-
+- ### Read
+  background-color:: green
+  template:: [[source - website]]
+  template-including-parent:: true
+	- type:: [[website]]
+	  read-status:: [[read]]
+	  title:: 
+	  authors::
+	  published-year:: [[]] 
+	  date-read:: [[]]
+	  downloads-file-path::
+	  link::
+	  major-themes::
+	  minor-themes::
+	- #### Content:
+	-
+	- #### Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
+-
+- ### Read
+  background-color:: green
+  template:: [[source - podcast]]
+  template-including-parent:: true
+	- type:: [[podcast]]
+	  read-status:: [[read]]
+	  title:: 
+	  authors::
+	  published-year:: [[]] 
+	  date-read:: [[]]
+	  file-path::
+	  additional-links::
 	  major-themes::
 	  minor-themes::
 	- #### Content:
