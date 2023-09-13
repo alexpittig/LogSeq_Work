@@ -100,7 +100,7 @@ minor-themes::
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### Input Title
+- ### To Read Title
   background-color:: green
   template:: [[to read]]
   template-including-parent:: true
@@ -110,20 +110,22 @@ minor-themes::
   file-path:: 
   additional-links::
   major-themes::
+	- #### Content:
 -
 - ### Meetings
   template:: [[meetings]]
   template-including-parent:: true
-	- with-who:: [[]]
-	  date:: [[]]
-	  major-themes::
-	  minor-themes::
+  with-who:: [[]]
+  links::
+  major-themes::
+  minor-themes::
 	- #### Content:
 -
 - ### Daily Notes
 - template:: [[daily notes]] 
   template-including-parent:: true
-	- time-in::
+  time-in::
+	- #### Notes From Today:
 -
 - ### To Do List
   template:: [[to-do-list]]
@@ -134,7 +136,3 @@ minor-themes::
 	- TODO
 	- TODO
 	- TODO
-	-
-	-
-	-
--
