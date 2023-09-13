@@ -100,17 +100,16 @@ minor-themes::
 	- #### Image:
 	  [PASTE IMAGE HERE]{:height 300, :width 400}
 -
-- ### To Read
+- ### Input Title
   background-color:: green
   template:: [[to read]]
   template-including-parent:: true
-	- type:: [[]]
-	  read-status:: [[to-read]] 
-	  title:: [[]]
-	  authors:: [[]]
-	  published:: [[]] 
-	  link:: [[]]
-	  major-themes::
+  authors:: [[]]
+  read-status:: [[to-read]] 
+  published:: [[]] 
+  file-path:: 
+  additional-links::
+  major-themes::
 -
 - ### Meetings
   template:: [[meetings]]
