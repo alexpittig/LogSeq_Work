@@ -2,16 +2,15 @@
 background-color:: green
 template:: [[source - book]]
 template-including-parent:: true
-	- type:: [[book]]
-	  read-status:: [[read]]
-	  title:: 
-	  authors:: [[]]
-	  published:: [[]] 
-	  date:: [[]]
-	  file-path:: 
-	  additional-links::
-	  major-themes::
-	  minor-themes::
+type:: [[book]]
+read-status:: [[read]]
+authors:: [[]]
+published:: [[]] 
+date:: [[]]
+file-path:: 
+additional-links::
+major-themes::
+minor-themes::
 	- #### Content:
 	-
 	- #### Image:
