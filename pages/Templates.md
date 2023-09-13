@@ -120,9 +120,8 @@ template-including-parent:: true
 	  read-status:: [[to-read]] 
 	  title:: [[]]
 	  authors:: [[]]
-	  published-year:: [[]] 
+	  published:: [[]] 
 	  link:: [[]]
-	  
 	  major-themes::
 -
 - ### Meetings
@@ -142,7 +141,6 @@ template-including-parent:: true
 - ### To Do List
   template:: [[to-do-list]]
   template-including-parent:: true
-	- TODO
 	- TODO
 	- TODO
 	- TODO
