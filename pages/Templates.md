@@ -6,8 +6,8 @@ template-including-parent:: true
 	  read-status:: [[read]]
 	  title:: 
 	  authors:: [[]]
-	  published-year:: [[]] 
-	  date-read:: [[]]
+	  published:: [[]] 
+	  date:: [[]]
 	  file-path:: 
 	  additional-links::
 	  major-themes::
@@ -25,8 +25,8 @@ template-including-parent:: true
 	  read-status:: [[read]]
 	  title:: 
 	  authors:: [[]]
-	  published-year:: [[]] 
-	  date-read:: [[]]
+	  published:: [[]] 
+	  date:: [[]]
 	  file-path::
 	  additional-links::
 	  major-themes::
@@ -44,10 +44,10 @@ template-including-parent:: true
 	  read-status:: [[read]]
 	  title:: 
 	  authors:: [[]]
-	  published-year:: [[]] 
-	  date-read:: [[]]
-	  downloads-file-path::
-	  link::
+	  published:: [[]] 
+	  date:: [[]]
+	  file-path::
+	  additional-links::
 	  major-themes::
 	  minor-themes::
 	- #### Content:
@@ -62,9 +62,9 @@ template-including-parent:: true
 	- type:: [[podcast]]
 	  read-status:: [[read]]
 	  title:: 
-	  creators:: [[]]
-	  released-year:: [[]] 
-	  date-read:: [[]]
+	  authors:: [[]]
+	  published:: [[]] 
+	  date:: [[]]
 	  file-path::
 	  additional-links::
 	  major-themes::
@@ -81,9 +81,29 @@ template-including-parent:: true
 	- type:: [[interview]]
 	  read-status:: [[read]]
 	  title:: 
-	  interviewee:: [[]]
-	  date-interviewed:: [[]]
-	  audio-recording::
+	  authors:: [[]]
+	  published:: [[]] 
+	  date:: [[]]
+	  file-path:: 
+	  additional-links::
+	  major-themes::
+	  minor-themes::
+	- #### Content:
+	-
+	- #### Image:
+	  [PASTE IMAGE HERE]{:height 300, :width 400}
+-
+- ### Read
+  background-color:: green
+  template:: [[source - film]]
+  template-including-parent:: true
+	- type:: [[film]] 
+	  read-status:: [[read]]
+	  title:: 
+	  authors:: [[]]
+	  published:: [[]] 
+	  date:: [[]]
+	  file-path::
 	  additional-links::
 	  major-themes::
 	  minor-themes::
@@ -127,5 +147,9 @@ template-including-parent:: true
 	- TODO
 	- TODO
 	- TODO
+	- TODO
+	- TODO
+	-
+	-
 	-
 -
