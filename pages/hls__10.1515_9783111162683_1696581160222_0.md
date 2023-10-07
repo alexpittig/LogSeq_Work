@@ -26,3 +26,9 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 217
   hl-color:: green
   id:: 65213c63-999f-4ae8-b920-3d091a75de7c
+- Our method incorporates a physics-based simulation of the bending and twisting behavior of the bamboo ribbons.
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 65213e82-7dc1-4ab7-89ae-54b178c6f08f
+  hl-stamp:: 1696677509508
