@@ -47,3 +47,13 @@ file-path:: ../assets/WoodHandbook_1696865188655_0.pdf
   hl-page:: 18
   hl-color:: green
   id:: 6524291e-417c-4eca-bbd5-84c2bb824705
+- biogenic CO2, which is emitted from the burning of biomass (such as wood
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: green
+  id:: 65242a6a-6e0f-4e4a-82cb-0db313bfa75c
+- Carbon Storage
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65242aa1-1d13-4fd0-bbfd-ebd56562c05c
