@@ -27,3 +27,23 @@ file-path:: ../assets/WoodHandbook_1696865188655_0.pdf
   hl-page:: 12
   hl-color:: green
   id:: 6524275b-9657-4d69-aecb-dd42ba89efaf
+- Forest land is defined as land that is at least 10% stocked by forest trees of any size, including lands that formerly had such cover and will be naturally or artificially reforested
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 652427b4-a9c0-4d39-beb9-8af9272cef05
+- timberland (forest land that is producing or is capable of producing crops of industrial wood and not withdrawn from timber utilization by statute or administrative regulation (Oswalt and others 2019)) makes up 67% of the forest land, 87% of which is considered to be of natural origin
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 652427d2-ed7d-4f0f-868f-0abeb888772e
+- Unlike competing materials, wood can be harvested sustainably with active forest managemen
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: green
+  id:: 65242917-9ddd-4169-a915-41427f770110
+- Wood, concrete, and steel are the main building materials. Of the three, wood construction acts as a greenhouse gas (GHG) emission reduction strategy and comes from a renewable and sustainable source.
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: green
+  id:: 6524291e-417c-4eca-bbd5-84c2bb824705
