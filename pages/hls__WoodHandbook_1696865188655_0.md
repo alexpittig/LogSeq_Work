@@ -57,3 +57,8 @@ file-path:: ../assets/WoodHandbook_1696865188655_0.pdf
   hl-page:: 21
   hl-color:: yellow
   id:: 65242aa1-1d13-4fd0-bbfd-ebd56562c05c
+- For example, softwoods such as longleaf pine and Douglas-fir are typically harder than the hardwoods basswood and aspen
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: yellow
+  id:: 65295124-250d-4fb7-94f2-d8f09790b7f1
