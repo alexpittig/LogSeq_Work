@@ -65,5 +65,11 @@ file-path:: ../assets/WoodHandbook_1696865188655_0.pdf
 - cross section of each species or species group
   ls-type:: annotation
   hl-page:: 31
-  hl-color:: blue
+  hl-color:: green
   id:: 652c3345-336d-4498-9b41-c96d76dcfcb4
+  hl-stamp:: 1697397266344
+- The micrographs are printed at magnifications of approximately 15×
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: green
+  id:: 652c3a10-f5c5-41d0-bb6a-fac89dde103d
