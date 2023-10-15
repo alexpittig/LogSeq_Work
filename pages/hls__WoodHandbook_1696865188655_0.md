@@ -62,3 +62,8 @@ file-path:: ../assets/WoodHandbook_1696865188655_0.pdf
   hl-page:: 30
   hl-color:: yellow
   id:: 65295124-250d-4fb7-94f2-d8f09790b7f1
+- cross section of each species or species group
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: blue
+  id:: 652c3345-336d-4498-9b41-c96d76dcfcb4
