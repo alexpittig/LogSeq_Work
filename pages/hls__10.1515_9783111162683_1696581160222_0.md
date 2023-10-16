@@ -42,13 +42,13 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 39
   hl-color:: yellow
   id:: 652d05a7-609e-4596-8868-122a75fa6dab
-- alved logs are stretched along threaded rods and connected into larger panels with a custom slip washer splice connection
-  ls-type:: annotation
-  hl-page:: 39
-  hl-color:: green
-  id:: 652d0ca5-06d6-470d-b3e4-ce9440aa64be
 - research uses EAB-infested white ash, to simulate and assemble roundwood timbers into bending-active structural components for a fully permitted outdoor installation
   ls-type:: annotation
   hl-page:: 39
   hl-color:: green
   id:: 652d0cc5-3183-4bc7-9aac-517835394c0d
+- alved logs are stretched along threaded rods and connected into larger panels with a custom slip washer splice connection
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: green
+  id:: 652d1052-6358-46a6-8989-8745fe942f7c
