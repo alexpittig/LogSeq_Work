@@ -52,3 +52,13 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 39
   hl-color:: green
   id:: 652d1052-6358-46a6-8989-8745fe942f7c
+- develops and deploys a Finite Element Method (FEM) to simulate the deformation of individual ash wood boards as they are stretched into leaf-spring panels.
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: yellow
+  id:: 652d1137-5a06-499c-b629-181e7d26a67a
+- a second FEM is used to simulate the gravity and wind loads affecting the installation
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 652d124c-fe39-4482-9b7e-f351d94f44c1
