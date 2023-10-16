@@ -62,3 +62,23 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 40
   hl-color:: green
   id:: 652d124c-fe39-4482-9b7e-f351d94f44c1
+- steam bending alters the mechanical properties of wood and thus also weakens the material 
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: yellow
+  id:: 652d130c-8953-4b99-af88-ae489c1ef2d2
+- Controlled elastic deformation through pliable materials is a bending-active method to achieve geometric curvature, while maintaining the structural viability of the material as long as the elastic deformation is reversible
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 652d1317-bfaa-483f-97f0-700ead5ad694
+- Instead of relying on a sheet material, the Unlog method unravels the volumetric roundwood into an operable leaf-spring component as opposed to assembling individual sheets that are then unraveled
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 652d1506-27fc-43a9-bbe3-ad86a7dfbe2f
+- attempts to reduce the amount of waste material produced through squaring of a log for dimensional lumber and/or reducing the amount of adhesive required for plywood
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 652d150e-97f1-417e-a1a9-5c43cf0bda70
