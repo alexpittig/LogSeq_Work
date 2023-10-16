@@ -32,3 +32,13 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-color:: yellow
   id:: 65213e82-7dc1-4ab7-89ae-54b178c6f08f
   hl-stamp:: 1696677509508
+- bending-active trusses through elastic kinematics
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 652d0595-bec3-4fb9-afbe-7b375acd04be
+- robotic kerfing techniques,
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 652d05a7-609e-4596-8868-122a75fa6dab
