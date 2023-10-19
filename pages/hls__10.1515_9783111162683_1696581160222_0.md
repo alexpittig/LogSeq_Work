@@ -82,3 +82,43 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 41
   hl-color:: yellow
   id:: 652d150e-97f1-417e-a1a9-5c43cf0bda70
+- This research demonstrated how to stretch EAB infested timbers into a structurally viable wall assembly through bending-active elastic kinematics, which were simulated through the development of a custom FEM
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: yellow
+  id:: 6530f7d8-c35c-49fb-bd6a-17fb8db63044
+- Bezier curves compared to bending-active bending boards simulated through FEA, which lead to the design of the splice connection
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: green
+  id:: 6530f7ed-233d-465b-8d0e-8a9c4eb9c30b
+- first principal normal forces were used to check the bearing capacity of each board 
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6530f88e-6819-42f9-9d18-672cf7235632
+- secondary principal normal forces were used to check for any potential deformation 
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6530f894-4740-49d6-ae96-c2ec64c7970d
+- four highest values for both tension and compression stresses were automatically sorted into a combined list of the extremes for all boards in the model and graphically displayed.
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6530f8a1-5d50-48fd-95fb-44f877aebd86
+- similar process was repeated for all the moment and shear forces which were displayed through a green to yellow to red gradient
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6530f8aa-3523-4ec7-8f6d-029e81a5ee1b
+- shear forces, particularly those parallel to the grain, were checked to ensure that there would be no splitting between board members
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 6530f8b6-7674-42ba-9d0b-c3942bfa296f
+- simulation greatly assisted in evaluating the complex geometry for locations of overstress and enabled an iterative design proces
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: green
+  id:: 6530f8c1-2c58-4d9a-b8e2-fc7f5ca75982
