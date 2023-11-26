@@ -127,3 +127,14 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 217
   hl-color:: blue
   id:: 6562e5f6-0423-4eae-a9f7-dd6c76472202
+- Beam segments were bent and twisted on-site from 2,190 flat, CNC-cut LVL-lamellae and locked in shape by 3,500 wooden dowels to form a stiff structure
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6562ec76-a615-43c7-839d-f2dde928a493
+- completely prefabricated from laminated veneer lumber (LVL)
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: green
+  id:: 6562ec98-53de-43ac-b53a-028e97ed2813
+  hl-stamp:: 1700981918913
