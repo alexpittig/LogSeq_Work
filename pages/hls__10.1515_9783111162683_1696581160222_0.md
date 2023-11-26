@@ -122,3 +122,8 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 49
   hl-color:: green
   id:: 6530f8c1-2c58-4d9a-b8e2-fc7f5ca75982
+- BamX exemplifies how a symbiosis of refined weaving craft and advanced computational modeling enables fascinating new opportunities for rethinking deployability in architecture
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: blue
+  id:: 6562e5f6-0423-4eae-a9f7-dd6c76472202
