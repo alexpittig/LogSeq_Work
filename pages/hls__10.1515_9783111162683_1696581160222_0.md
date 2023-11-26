@@ -148,3 +148,33 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 80
   hl-color:: yellow
   id:: 6562f0b1-643d-4356-aca1-c8bcd13678e8
+- pioneer the use of LVL panels in complex timber structures
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6562f0bd-8c71-4974-b4c6-efc496484a96
+- beams would be milled from a standard flat panel and mechanical-laminated
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6562f0ca-6869-46f2-a7bd-655191d4f868
+- This paper discusses the digital process and methodology driving the modeling and production of fabrication data, the use of demonstrators to validate assumptions on structural, fabrication, and assembly concepts, the reconstruction of precise reference geometry as well as the parametric segmentation, nesting, detailing, and unrolling of all the individual lamellae
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 6562f0f8-529b-4cf2-b835-1d71ff781d19
+- . Computational form-finding process
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6562f115-56e1-4f02-881b-c2d67a175a66
+- physical hanging-model method allows to determine the shape of elastic timber gridshells 
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6562f11a-fec2-49ea-ab5c-8795d930155b
+- Most built gridshells use slender and thin elements, e. g. Multihalle Mannheim, Weald and Downland Open Air Museum and PEMADE gridshell (Tomei et al. 2022)
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 6562f130-8b8d-4824-b341-c5d3ad6a60e9
