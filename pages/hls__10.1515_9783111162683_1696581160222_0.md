@@ -138,3 +138,13 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-color:: green
   id:: 6562ec98-53de-43ac-b53a-028e97ed2813
   hl-stamp:: 1700981918913
+- Lamellae were digitally unrolled, mapping all detailed connections from the twisted center surface to the flat lamella, and all were nested for 5-axis fabrication.
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6562f05d-780c-4b4f-8a19-1bc55fd16b53
+- extensive shared experience with freeform timber projects (Nine Bridges Golf Club in Yeoju, Venlo Casino in Venlo, Swatch Headquarter in Biel)
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6562f0b1-643d-4356-aca1-c8bcd13678e8
