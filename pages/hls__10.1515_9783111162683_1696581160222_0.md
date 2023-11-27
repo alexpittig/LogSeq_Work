@@ -183,3 +183,23 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 81
   hl-color:: yellow
   id:: 6563be23-b88b-4c94-ae6a-20ce51fa412b
+- Elastic timber gridshells often constitute the continuous façade of a building, starting at ground level and covering all wall and roof geometry, to be able to handle horizontal forces keeping the gridshell bent.
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: green
+  id:: 65643468-7ca0-4f00-8773-6d7c8d11c472
+- Ribbed and cross-ribbed shells, use false-work to construct the
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 65643587-5ce0-4c23-9b17-cfbdc222c441
+- designed geometry and dowel or nail the elements together
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: yellow
+  id:: 65643590-5087-4316-af86-0fae26fdfbb8
+- Or by using the hygroscopic qualities of wood to form surface-active plates like the Urbach Tower 
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: yellow
+  id:: 65643599-7b36-4bf5-a9d9-effd0ec1e9f2
