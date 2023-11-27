@@ -178,3 +178,8 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 81
   hl-color:: green
   id:: 6562f130-8b8d-4824-b341-c5d3ad6a60e9
+- reducing the width of the elements, the geometric torsion is reduced (Slabbinck et al. 2017)
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6563be23-b88b-4c94-ae6a-20ce51fa412b
