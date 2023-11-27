@@ -203,3 +203,23 @@ file-path:: ../assets/10.1515_9783111162683_1696581160222_0.pdf
   hl-page:: 82
   hl-color:: yellow
   id:: 65643599-7b36-4bf5-a9d9-effd0ec1e9f2
+- The use of dowels to mechanically laminate timber has been a focus point of research in the last decade
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: green
+  id:: 656435aa-ae7e-41f5-8305-15f865f87c39
+- More recent research shows ribbed shells with doweled planks, keyed beams where shear keys are used between timber layers to improve the overall beam stiffness and efficiency, and dowel laminated timber (DLT
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: yellow
+  id:: 656435bd-40ff-4581-8812-634d5a5a02ce
+- Emy 183
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: blue
+  id:: 656435fb-e046-4f97-9e18-bc74f74685da
+- Miller and Bulleit2011; Gliniorz et al. 2002; Sotayo et al. 2020; O’Ceallaigh et al. 2022
+  ls-type:: annotation
+  hl-page:: 82
+  hl-color:: blue
+  id:: 656435fe-658c-4c46-9a53-08739197afaf
