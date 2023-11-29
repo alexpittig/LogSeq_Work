@@ -59,3 +59,48 @@ file-path:: ../assets/Lienhard_et_al._-_2013_-_Active_Bending,_a_Review_on_Struc
   hl-page:: 4
   hl-color:: green
   id:: 6567796c-2ee3-4345-b5df-555dad039c1a
+- In static bending-active structures, creep deformation and consequential loss of pre-stress may be of little consequence to the system’s integrity
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 65677a0d-adf9-4133-ab51-c8657f09da4b
+- Furthermore, the resetting effect can only be exploited if no long term permanent creep deformation occurs
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 65677a3d-1e9a-443d-bd31-315b1b742847
+- bending-active structures are understood to be an approach rather than a distinct structural typology
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 65677a4e-01d1-4a46-bc6c-07f6097d961d
+- Their common denominator 
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 65677a5e-03f0-4049-8d13-6a7554b241e0
+- a formation process during which they are elastically bent.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 65677a64-3e79-4ff2-a23e-b937fdddc490
+- In a behaviour based approach bending is initially used intuitively; the system’s geometry and structural behaviour is studied empirically. Material limitations are tested physically.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 65677a7f-7dca-4257-99a7-58cbf63b90e6
+- In a geometry based approach the system’s geometry is predefined based on analytical geometry or experimental form-finding methods, both of which are used as a controlled means to approximate the actual bending geometry. Material limitations are considered analytically based on momentum curvature relation
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 65677a8b-80d9-4a6e-b756-9f239eba41a0
+- In an integral approach the elastic bending deformation is analysed through numerical formfinding, which enables full control of material behaviour based geometry. Material characteristics and limitations are included in the numerical analysis model.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: blue
+  id:: 65677a95-fc56-4cff-a79b-e2b359289d91
+- lightweight structures 
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 65677b2d-20ec-41f0-ad1c-1fa10bb0635c
