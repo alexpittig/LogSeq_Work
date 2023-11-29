@@ -49,3 +49,13 @@ file-path:: ../assets/Lienhard_et_al._-_2013_-_Active_Bending,_a_Review_on_Struc
   hl-page:: 3
   hl-color:: green
   id:: 65677737-5100-4b40-8bfe-081fec4048a1
+- In order to guarantee sufficient load bearing capacity of a structure that includes considerable selfequilibrating bending stress, materials of high breaking strain must be chosen
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 65677954-5089-42d4-ae52-f40b72d6d0a0
+- The traditional building materials of softwood, bamboo and reed offer such characteristics, leading to an extensive use of active bending in the constructions of vernacular architecture across cultures and continents. An indication for their lightweight potential and economical material use becomes apparent when considering the fact that, historically, such structures were predominantly found in areas where either wood was rare, mainly softwoods were available, or in cultures that had not yet developed the technologies to process larger timber pieces [1] (p. 652).
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 6567796c-2ee3-4345-b5df-555dad039c1a
