@@ -104,3 +104,8 @@ file-path:: ../assets/Lienhard_et_al._-_2013_-_Active_Bending,_a_Review_on_Struc
   hl-page:: 6
   hl-color:: green
   id:: 65677b2d-20ec-41f0-ad1c-1fa10bb0635c
+- elastic deformation is used as an economic way to construct double curved shell structures whose geometry is, however, not directly based on the bending shape itself but various other analytical and experimental form-finding approaches
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 656788c0-678a-433e-a25d-9a3c9c8b7657
