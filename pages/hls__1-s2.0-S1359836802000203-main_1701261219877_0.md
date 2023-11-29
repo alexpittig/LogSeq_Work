@@ -84,3 +84,8 @@ file-path:: ../assets/1-s2.0-S1359836802000203-main_1701261219877_0.pdf
   hl-page:: 10
   hl-color:: red
   id:: 65676922-0783-418b-bf31-effcb1b8c872
+- The model emphasizes the possible sliding between layers due to the ﬁnite stiffness of the connections
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: yellow
+  id:: 6567697b-64f8-472a-bf7f-cf2e2e7e0737
