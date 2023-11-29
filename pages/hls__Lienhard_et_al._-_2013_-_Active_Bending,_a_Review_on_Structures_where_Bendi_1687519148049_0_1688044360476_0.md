@@ -109,3 +109,13 @@ file-path:: ../assets/Lienhard_et_al._-_2013_-_Active_Bending,_a_Review_on_Struc
   hl-page:: 6
   hl-color:: yellow
   id:: 656788c0-678a-433e-a25d-9a3c9c8b7657
+- “House of the Future” by the Monsanto Chemical Company in 1954
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 65678d9f-4741-44de-80cf-cb0c76581279
+- Buckminster Fullers “Fly’s Eye Domes” in 1975
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 65678da4-c29f-4905-9ec9-9ae4c3ca38f5
