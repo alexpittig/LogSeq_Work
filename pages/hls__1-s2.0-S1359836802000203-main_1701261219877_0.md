@@ -54,3 +54,33 @@ file-path:: ../assets/1-s2.0-S1359836802000203-main_1701261219877_0.pdf
   hl-page:: 9
   hl-color:: yellow
   id:: 65676400-46e7-4427-a63f-577a4d6290e7
+- rst method,
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 656767f7-b0c5-451e-ae91-323ab195dd96
+- the whole structure is lifted in the ﬁnished position using a ﬁxed pillar crane
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 65676800-8c73-4a0b-bebf-fcfb4604f5b3
+- Once the structure is in the ﬁnal position, all layers of the ribs are joined by screws or nails and the dowels tightened
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 65676808-1885-4719-bde8-e9a16486cb0f
+- second method
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 65676822-338e-4eef-a9e8-961bfdb0dd4f
+- planks are ﬁrst laid and ﬁxed temporaril
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 65676916-0b4a-4fa5-995f-745649dbd230
+- sofﬁt scaffolding(false-work) taking the form shape of the shell is constructed
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 65676922-0783-418b-bf31-effcb1b8c872
