@@ -36,3 +36,13 @@ file-path:: ../assets/10.1515_9783035604900-compressed_1688749037748_0.pdf
   hl-page:: 95
   hl-color:: blue
   id:: 65709428-0706-46bf-949c-503426442984
+- The geometric view of this pattern shows that a stabilizing “system effect” strengthens these structures. The close proximity of the elements to one another results in a high friction effect before the system can be deformed
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 657096b7-847b-44ba-b4f2-8cb0faff9da5
+- material-specific assessment might be used from an engineering perspective to stabilize and reinforce structures
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 657096c3-91ad-49d8-a121-71783be4ffda
