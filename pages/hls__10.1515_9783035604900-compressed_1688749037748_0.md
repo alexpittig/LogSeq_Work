@@ -31,3 +31,8 @@ file-path:: ../assets/10.1515_9783035604900-compressed_1688749037748_0.pdf
   hl-page:: 95
   hl-color:: yellow
   id:: 65709272-83c0-4e4b-b680-7402ac52723c
+- Ribbed domes consist of continuous supporting elements, as opposed to disconnected support systems—such as reciprocal systems—where the structural parts are interrupted and the nodes have to be connected to one another. 
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: blue
+  id:: 65709428-0706-46bf-949c-503426442984
