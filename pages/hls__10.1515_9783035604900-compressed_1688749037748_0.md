@@ -46,3 +46,18 @@ file-path:: ../assets/10.1515_9783035604900-compressed_1688749037748_0.pdf
   hl-page:: 95
   hl-color:: yellow
   id:: 657096c3-91ad-49d8-a121-71783be4ffda
+- t is a kind of active system that increases in rigidity when the external force is increased
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 65778479-0469-45b7-af9a-fb0c3fb7f767
+- GEOS software was developed at the Swiss Federal Institute of Technology in Lausanne(EPFL) between 2002 and 2004
+  ls-type:: annotation
+  hl-page:: 102
+  hl-color:: yellow
+  id:: 657784c8-2c3a-49f8-9e92-fab35f5472c1
+- he term “geodesic” is derived from the Greek ge (earth) and daiesthai (to divide).
+  ls-type:: annotation
+  hl-page:: 102
+  hl-color:: blue
+  id:: 6577853f-5716-48bf-9f7e-484420357463
