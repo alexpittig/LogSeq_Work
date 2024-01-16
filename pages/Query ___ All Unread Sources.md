@@ -1,0 +1,2 @@
+- {{query (and (property :read-status [[to-read]]) (not [[Templates]]))}}
+-
