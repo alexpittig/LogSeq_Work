@@ -132,4 +132,4 @@
                           :page 1},
                :content {:text "Therefore, robotic construction with such materials requires planning and control strategies that generalize to uncertain properties of a single element and continuously adapt to unpredictable deformations inherent to natural materials in the real world."},
                :properties {:color "yellow"}}],
- :extra {:page 1}}
+ :extra {:page 2}}
