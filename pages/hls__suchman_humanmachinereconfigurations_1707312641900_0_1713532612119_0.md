@@ -1,0 +1,2 @@
+file:: [suchman_humanmachinereconfigurations_1707312641900_0_1713532612119_0.pdf](../assets/suchman_humanmachinereconfigurations_1707312641900_0_1713532612119_0.pdf)
+file-path:: ../assets/suchman_humanmachinereconfigurations_1707312641900_0_1713532612119_0.pdf
