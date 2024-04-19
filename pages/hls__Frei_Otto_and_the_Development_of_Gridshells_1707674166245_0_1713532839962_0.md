@@ -1,0 +1,2 @@
+file:: [Frei_Otto_and_the_Development_of_Gridshells_1707674166245_0_1713532839962_0.pdf](../assets/Frei_Otto_and_the_Development_of_Gridshells_1707674166245_0_1713532839962_0.pdf)
+file-path:: ../assets/Frei_Otto_and_the_Development_of_Gridshells_1707674166245_0_1713532839962_0.pdf
